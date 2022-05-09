@@ -1,0 +1,58 @@
+[
+    {
+        "game_title": "VRChat",
+        "game_release": "Q1 2017",
+        "game_image": "https://www.finsmes.com/wp-content/uploads/2021/06/Landscape_CoverArt.png",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Stardew Valley",
+        "game_release": "Q1 2016",
+        "game_image": "http://www.onrpg.com/wp-content/uploads/2016/03/Stardew_Valley_640x380.jpg",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Terraria",
+        "game_release": "Q2 2011",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560",
+        "rating": 3,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Monster Hunter: World",
+        "game_release": "Q1 2018",
+        "game_image": "https://media.playstation.com/is/image/SCEA/monster-hunter-world-listing-thumb-01-ps4-us-18sep17?$Icon$",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Monster Hunter: Rise",
+        "game_release": "Q1 2021",
+        "game_image": "https://wallpaperaccess.com/full/5871045.png",
+        "rating": 4,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Life Is Strange",
+        "game_release": "Q1 2015",
+        "game_image": "https://imagebee.org/games/life-is-strange/life-is-strange-1-1600x900.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Life Is Strange: True Colors",
+        "game_release": "Q3 2021",
+        "game_image": "https://images.alphacoders.com/115/1152016.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Steam"
+    }
+]
