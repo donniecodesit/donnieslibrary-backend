@@ -34,8 +34,10 @@ async function gameExists(req, res, next) {
 
 // Verify that the game being created or updated has all required values and they are valid.
 async function hasValidProperties(req, res, next) {
-    const { rating, multiplayer } = req.body.data;
-    const keys = [ 'game_title', 'game_release', 'game_image', 'rating', 'multiplayer', 'platform'];
+    let { rating, multiplayer } = req.body.data;
+    if (multiplayer === "true") multiplayer = true;
+    if (multiplayer === "false") multiplayer = false;
+    const keys = [ 'game_title', 'game_release', 'game_image', 'rating', 'platform'];
 
     keys.forEach((key) => {
         if (!req.body.data[key]) next({ status: 400, message: `Body is missing a value: ${key}`});
