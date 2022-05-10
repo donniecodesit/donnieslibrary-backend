@@ -10,7 +10,7 @@
     {
         "game_title": "Stardew Valley",
         "game_release": "Q1 2016",
-        "game_image": "http://www.onrpg.com/wp-content/uploads/2016/03/Stardew_Valley_640x380.jpg",
+        "game_image": "https://assets.nintendo.com/image/upload/c_fill,f_auto,q_auto,w_1200/v1/ncom/en_US/games/switch/s/stardew-valley-switch/hero",
         "rating": 5,
         "multiplayer": true,
         "platform": "Steam"
@@ -54,5 +54,101 @@
         "rating": 5,
         "multiplayer": false,
         "platform": "Steam"
+    },
+    {
+        "game_title": "Phasmophobia",
+        "game_release": "Q3 2020",
+        "game_image": "https://www.gamepretty.com/wp-content/uploads/2020/09/capsule_616x353-2020-09-20T181116.831.jpg",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Valheim",
+        "game_release": "Q1 2021",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/capsule_616x353.jpg?t=1647939640",
+        "rating": 4,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Among Us",
+        "game_release": "Q2 2018",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/945360/capsule_616x353.jpg?t=1646296970",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "The Legend Of Zelda: Breath of the Wild",
+        "game_release": "Q1 2017",
+        "game_image": "https://www.zelda.com/breath-of-the-wild/assets/icons/BOTW-Share_icon.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Console"
+    },
+    {
+        "game_title": "Spiritfarer: Farewell Edition",
+        "game_release": "Q3 2020",
+        "game_image": "https://i.ytimg.com/vi/mWcDpodmiKg/maxresdefault.jpg",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Life is Strange: Before the Storm",
+        "game_release": "Q3 2017",
+        "game_image": "https://i0.wp.com/selphie1999gaming.com/wp-content/uploads/2020/08/lis-storm-guides_orig-2808202020-M.jpg?fit=616%2C353&ssl=1",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Tell Me Why",
+        "game_release": "Q3 2020",
+        "game_image": "https://tellmewhy-cdn.azureedge.net/wp-content/uploads/2019/11/TellMeWhy_Wallpaper-Desktop-Wide_2560x1440.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "The Sims 4",
+        "game_release": "Q3 2014",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/1222670/capsule_616x353.jpg?t=1647882700",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "Origin"
+    },
+    {
+        "game_title": "The Sims 2",
+        "game_release": "Q3 2004",
+        "game_image": "https://www.gry-online.pl/i/h/1/417623272.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Grandia HD Collection",
+        "game_release": "Q3 2019",
+        "game_image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2019/10/1280x720_011.png",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+        "game_release": "Q1 2021",
+        "game_image": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S5-1920x1080-d4bd9d38aaee5d23b23ef0b04567541f.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Epic"
+    },
+    {
+        "game_title": "Cave Story +",
+        "game_release": "Q4 2020",
+        "game_image": "https://cdn2.unrealengine.com/egs-cavestory-nicalisincstudiopixel-s1-2560x1440-633664379.jpg",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "Epic"
     }
 ]
