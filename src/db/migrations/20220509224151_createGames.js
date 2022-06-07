@@ -4,7 +4,7 @@ exports.up = function (knex) {
     table.string("game_title");
     table.string("game_release");
     table.string("game_image");
-    table.integer("rating");
+    table.float("rating");
     table.boolean("multiplayer");
     table.string("platform");
     table.timestamps(true, true);

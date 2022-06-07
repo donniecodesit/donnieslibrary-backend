@@ -3,7 +3,7 @@
         "game_title": "VRChat",
         "game_release": "Q1 2017",
         "game_image": "https://www.finsmes.com/wp-content/uploads/2021/06/Landscape_CoverArt.png",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "Steam"
     },
@@ -11,7 +11,7 @@
         "game_title": "Stardew Valley",
         "game_release": "Q1 2016",
         "game_image": "https://assets.nintendo.com/image/upload/c_fill,f_auto,q_auto,w_1200/v1/ncom/en_US/games/switch/s/stardew-valley-switch/hero",
-        "rating": 5,
+        "rating": 5.5,
         "multiplayer": true,
         "platform": "Steam"
     },
@@ -19,7 +19,7 @@
         "game_title": "Terraria",
         "game_release": "Q2 2011",
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560",
-        "rating": 3,
+        "rating": 3.5,
         "multiplayer": true,
         "platform": "Steam"
     },
@@ -43,7 +43,7 @@
         "game_title": "Life Is Strange",
         "game_release": "Q1 2015",
         "game_image": "https://imagebee.org/games/life-is-strange/life-is-strange-1-1600x900.jpg",
-        "rating": 5,
+        "rating": 5.5,
         "multiplayer": false,
         "platform": "Steam"
     },
@@ -51,7 +51,7 @@
         "game_title": "Life Is Strange: True Colors",
         "game_release": "Q3 2021",
         "game_image": "https://images.alphacoders.com/115/1152016.jpg",
-        "rating": 5,
+        "rating": 5.5,
         "multiplayer": false,
         "platform": "Steam"
     },
@@ -75,7 +75,7 @@
         "game_title": "Among Us",
         "game_release": "Q2 2018",
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/945360/capsule_616x353.jpg?t=1646296970",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "Steam"
     },
@@ -83,15 +83,15 @@
         "game_title": "The Legend Of Zelda: Breath of the Wild",
         "game_release": "Q1 2017",
         "game_image": "https://www.zelda.com/breath-of-the-wild/assets/icons/BOTW-Share_icon.jpg",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": false,
-        "platform": "Console"
+        "platform": "Nintendo Switch"
     },
     {
         "game_title": "Spiritfarer: Farewell Edition",
         "game_release": "Q3 2020",
         "game_image": "https://i.ytimg.com/vi/mWcDpodmiKg/maxresdefault.jpg",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "Steam"
     },
@@ -99,7 +99,7 @@
         "game_title": "Life is Strange: Before the Storm",
         "game_release": "Q3 2017",
         "game_image": "https://i0.wp.com/selphie1999gaming.com/wp-content/uploads/2020/08/lis-storm-guides_orig-2808202020-M.jpg?fit=616%2C353&ssl=1",
-        "rating": 5,
+        "rating": 5.5,
         "multiplayer": false,
         "platform": "Steam"
     },
@@ -107,7 +107,7 @@
         "game_title": "Tell Me Why",
         "game_release": "Q3 2020",
         "game_image": "https://tellmewhy-cdn.azureedge.net/wp-content/uploads/2019/11/TellMeWhy_Wallpaper-Desktop-Wide_2560x1440.jpg",
-        "rating": 5,
+        "rating": 5.5,
         "multiplayer": false,
         "platform": "Steam"
     },
@@ -123,7 +123,7 @@
         "game_title": "The Sims 2",
         "game_release": "Q3 2004",
         "game_image": "https://www.gry-online.pl/i/h/1/417623272.jpg",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": false,
         "platform": "PC"
     },
@@ -139,7 +139,7 @@
         "game_title": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
         "game_release": "Q1 2021",
         "game_image": "https://cdn1.epicgames.com/4158b699dd70447a981fee752d970a3e/offer/EGS_KINGDOMHEARTSHD1525ReMIX_SquareEnix_S5-1920x1080-d4bd9d38aaee5d23b23ef0b04567541f.jpg",
-        "rating": 5,
+        "rating": 5.5,
         "multiplayer": false,
         "platform": "Epic"
     },
@@ -150,5 +150,165 @@
         "rating": 4,
         "multiplayer": false,
         "platform": "Epic"
+    },
+    {
+        "game_title": "Final Fantasy XIV Online",
+        "game_release": "Q3 2013",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_616x353.jpg?t=1643126664",
+        "rating": 4,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Guild Wars 2",
+        "game_release": "Q3 2012",
+        "game_image": "https://guildwars2.staticwars.com/wp-content/themes/guildwars2.com-live/img/og-img.f6214476.jpg",
+        "rating": 4,
+        "multiplayer": true,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Danganronpa: Trigger Happy Havoc",
+        "game_release": "Q4 2010",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/413410/capsule_616x353.jpg?t=1637303326",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Danganronpa 2: Goodbye Despair",
+        "game_release": "Q3 2012",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/413420/capsule_616x353.jpg?t=1635757200",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Danganronpa V3: Killing Harmony",
+        "game_release": "Q1 2017",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/567640/capsule_616x353.jpg?t=1635757344",
+        "rating": 5.5,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Life is Strange 2",
+        "game_release": "Q3 2018",
+        "game_image": "https://wallpapercave.com/wp/wp4327467.jpg",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Don't Starve Together",
+        "game_release": "Q2 2016",
+        "game_image": "https://wallpapercave.com/wp/wp2236997.png",
+        "rating": 3,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Forewarned",
+        "game_release": "Q3 2021",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/1562420/capsule_616x353.jpg?t=1654189696",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Left 4 Dead 2",
+        "game_release": "Q3 2009",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_616x353.jpg?t=1630686839",
+        "rating": 4,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Satisfactory",
+        "game_release": "Q1 2019",
+        "game_image": "https://images7.alphacoders.com/108/1083975.jpg",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Osu",
+        "game_release": "Q3 2007",
+        "game_image": "https://i0.wp.com/l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Osu.jpg?fit=810%2C455&ssl=1",
+        "rating": 3,
+        "multiplayer": false,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Friday Night Funkin",
+        "game_release": "Q3 2020",
+        "game_image": "https://i.ytimg.com/vi/V4sMkQ9Ou6w/maxresdefault.jpg",
+        "rating": 5.5,
+        "multiplayer": false,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Persona 5",
+        "game_release": "Q3 2016",
+        "game_image": "https://image.api.playstation.com/vulcan/img/rnd/202011/0204/XTbLZ4M3vFxy3WFHB66Ja9qL.jpg",
+        "rating": 5.5,
+        "multiplayer": false,
+        "platform": "PS3"
+    },
+    {
+        "game_title": "Animal Crossing: New Horizons",
+        "game_release": "Q1 2020",
+        "game_image": "https://external-preview.redd.it/9Os4XFeayn-hYt7kLnNpXKA-RpE8QAHeHrRH2kfOdHw.jpg?auto=webp&s=4e498ecd34b033b74d79b413ebc2f151422394a7",
+        "rating": 5.5,
+        "multiplayer": true,
+        "platform": "Nintendo Switch"
+    },
+    {
+        "game_title": "Animal Crossing: New Leaf",
+        "game_release": "Q3 2012",
+        "game_image": "https://animalcrossingworld.com/wp-content/uploads/2013/04/newleaf-header-northamerica.jpg",
+        "rating": 3.5,
+        "multiplayer": true,
+        "platform": "Nintendo 3DS"
+    },
+    {
+        "game_title": "Steven Universe: Save the Light",
+        "game_release": "Q4 2017",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/821890/capsule_616x353.jpg?t=1582921129",
+        "rating": 5.5,
+        "multiplayer": false,
+        "platform": "Steam"
+    },
+    {
+        "game_title": "Earthbound",
+        "game_release": "Q3 1994",
+        "game_image": "https://images5.alphacoders.com/531/thumb-1920-531960.jpg",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "SNES"
+    },
+    {
+        "game_title": "PokeMMO",
+        "game_release": "Q1 2012",
+        "game_image": "https://i.ytimg.com/vi/MHWnJSoAJN0/maxresdefault.jpg",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Clone Hero",
+        "game_release": "Q2 2017",
+        "game_image": "https://pbs.twimg.com/media/EDAal2kXUAE0Xvd.jpg",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Red Dead Redemption 2",
+        "game_release": "Q4 2018",
+        "game_image": "https://cdn-ext.fanatical.com/production/product/1280x720/24a790d3-2e54-4c96-be13-8673f34d1aad.jpeg",
+        "rating": 4.5,
+        "multiplayer": true,
+        "platform": "Steam"
     }
 ]
