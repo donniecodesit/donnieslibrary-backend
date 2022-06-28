@@ -34,7 +34,7 @@ async function projectExists(req, res, next) {
 
 // Verify that the project being created or updated has all required values and they are valid.
 async function hasValidProperties(req, res, next) {
-    const keys = ["title", "description", "date", "repo", "url", "thumbnail", "index-priority"];
+    const keys = ["title", "description", "date", "repo", "url", "index-priority"];
     keys.forEach((key) => {
         if (!req.body.data[key]) next({ status: 400, message: `Body is missing a value: ${key}`});
         else if (key !== "index-priority" && typeof (req.body.data[key]) !== "string") next({ status: 400, message: `${key} must be a valid string.`})

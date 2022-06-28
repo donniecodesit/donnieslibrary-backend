@@ -6,7 +6,6 @@ exports.up = function (knex) {
     table.string("date");
     table.string("repo");
     table.string("url");
-    table.string("thumbnail");
     table.integer("index-priority");
     table.timestamps(true, true);
   });

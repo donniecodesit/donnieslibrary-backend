@@ -5,7 +5,6 @@
         "date": "2022-05-09",
         "repo": "https://github.com/donovanlaws/donnieslibrary-frontend",
         "url": "https://allaboutdonnie.herokuapp.com/portfolio",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 5
     },
     {
@@ -14,7 +13,6 @@
         "date": "2022-01-08",
         "repo": "https://github.com/donovanlaws/PrototonBot",
         "url": "none",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 5
     },
     {
@@ -23,7 +21,6 @@
         "date": "2022-01-31",
         "repo": "https://github.com/donovanlaws/WeLoveMovies",
         "url": "https://dl-movies-frontend.herokuapp.com/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 4
     },
     {
@@ -32,7 +29,6 @@
         "date": "2022-03-18",
         "repo": "https://github.com/donovanlaws/restaurant-reservation-system",
         "url": "https://dl-restres-frontend.herokuapp.com/dashboard",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 4
     },
     {
@@ -41,7 +37,6 @@
         "date": "2022-04-26",
         "repo": "https://github.com/donovanlaws/react-breakingbad",
         "url": "https://donovanlaws.github.io/react-breakingbad/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 4
     },
     {
@@ -50,7 +45,6 @@
         "date": "2022-06-20",
         "repo": "https://github.com/donovanlaws/metagenerator",
         "url": "https://donovanlaws.github.io/metagenerator/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 4
     },
     {
@@ -59,7 +53,6 @@
         "date": "2021-12-07",
         "repo": "https://github.com/donovanlaws/thinkfulbnb-page",
         "url": "https://donovanlaws.github.io/thinkfulbnb-page/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -68,7 +61,6 @@
         "date": "2021-11-23",
         "repo": "https://github.com/donovanlaws/DecoderRing",
         "url": "https://donovanlaws.github.io/DecoderRing/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -77,7 +69,6 @@
         "date": "2021-12-17",
         "repo": "https://github.com/donovanlaws/recipe-tracking-app",
         "url": "https://donovanlaws.github.io/recipe-tracking-app/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -86,7 +77,6 @@
         "date": "2022-01-18",
         "repo": "https://github.com/donovanlaws/LawsPortfolio",
         "url": "https://donovanlaws.github.io/LawsPortfolio/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -95,7 +85,6 @@
         "date": "2022-04-28",
         "repo": "https://github.com/donovanlaws/react-keygen",
         "url": "https://donovanlaws.github.io/react-keygen/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -104,7 +93,6 @@
         "date": "2022-04-09",
         "repo": "https://github.com/donovanlaws/react-quiz-trivia",
         "url": "https://donovanlaws.github.io/react-quiz-trivia/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -113,7 +101,6 @@
         "date": "2022-05-02",
         "repo": "https://github.com/donovanlaws/react-imagegallery",
         "url": "https://donovanlaws.github.io/react-imagegallery/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -122,7 +109,6 @@
         "date": "2022-04-27",
         "repo": "https://github.com/donovanlaws/react-quote-generator",
         "url": "https://donovanlaws.github.io/react-quote-generator/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -131,7 +117,6 @@
         "date": "2022-05-05",
         "repo": "https://github.com/donovanlaws/react-notetaker",
         "url": "https://donovanlaws.github.io/react-notetaker/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -140,7 +125,6 @@
         "date": "2022-05-05",
         "repo": "https://github.com/donovanlaws/react-bookshelf",
         "url": "https://donovanlaws.github.io/react-bookshelf/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -149,7 +133,6 @@
         "date": "2022-05-24",
         "repo": "https://github.com/donovanlaws/spendsome",
         "url": "https://donovanlaws.github.io/spendsome/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -158,7 +141,6 @@
         "date": "2022-05-26",
         "repo": "https://github.com/donovanlaws/bmicalculator",
         "url": "https://donovanlaws.github.io/bmicalculator/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -167,7 +149,6 @@
         "date": "2022-06-14",
         "repo": "https://github.com/donovanlaws/scoreboardapp",
         "url": "https://donovanlaws.github.io/scoreboardapp/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 3
     },
     {
@@ -176,7 +157,6 @@
         "date": "2021-12-06",
         "repo": "https://github.com/donovanlaws/starter-coffee-fun",
         "url": "https://donovanlaws.github.io/starter-coffee-fun/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 2
     },
     {
@@ -185,7 +165,6 @@
         "date": "2021-12-08",
         "repo": "https://github.com/donovanlaws/all-about-bears",
         "url": "https://donovanlaws.github.io/all-about-bears/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 2
     },
     {
@@ -194,7 +173,6 @@
         "date": "2021-12-27",
         "repo": "https://github.com/donovanlaws/albumlist-api-hooks",
         "url": "https://donovanlaws.github.io/albumlist-api-hooks/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 2
     },
     {
@@ -203,7 +181,6 @@
         "date": "2022-05-03",
         "repo": "https://github.com/donovanlaws/react-router-demo",
         "url": "https://dl-react-router-demo.herokuapp.com/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 2
     },
     {
@@ -212,7 +189,6 @@
         "date": "2022-05-06",
         "repo": "https://github.com/donovanlaws/react-contactmanager",
         "url": "https://donovanlaws.github.io/react-contactmanager/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 2
     },
     {
@@ -221,7 +197,6 @@
         "date": "2022-06-06",
         "repo": "https://github.com/donovanlaws/furniturestore",
         "url": "https://donovanlaws.github.io/furniturestore/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 2
     },
     {
@@ -230,7 +205,6 @@
         "date": "2021-12-07",
         "repo": "https://github.com/donovanlaws/html-forms",
         "url": "https://donovanlaws.github.io/html-forms/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 1
     },
     {
@@ -239,7 +213,6 @@
         "date": "2021-12-08",
         "repo": "https://github.com/donovanlaws/bootstrap-practice",
         "url": "https://donovanlaws.github.io/bootstrap-practice/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 1
     },
     {
@@ -248,7 +221,6 @@
         "date": "2021-12-16",
         "repo": "https://github.com/donovanlaws/form-submissions-search",
         "url": "https://donovanlaws.github.io/form-submissions-search/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 1
     },
     {
@@ -257,7 +229,6 @@
         "date": "2022-05-26",
         "repo": "https://github.com/donovanlaws/resortbooker",
         "url": "https://donovanlaws.github.io/resortbooker/",
-        "thumbnail": "https://www.calteag.co.za/wp-content/uploads/2018/05/coming-soon-72dpi.jpg",
         "index-priority": 1
     }
 ]
