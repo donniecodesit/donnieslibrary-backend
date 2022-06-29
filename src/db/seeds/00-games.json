@@ -5,7 +5,7 @@
         "game_image": "https://www.finsmes.com/wp-content/uploads/2021/06/Landscape_CoverArt.png",
         "rating": 4.5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Stardew Valley",
@@ -13,7 +13,7 @@
         "game_image": "https://assets.nintendo.com/image/upload/c_fill,f_auto,q_auto,w_1200/v1/ncom/en_US/games/switch/s/stardew-valley-switch/hero",
         "rating": 5.5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Terraria",
@@ -21,7 +21,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1590092560",
         "rating": 3.5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Monster Hunter: World",
@@ -29,7 +29,7 @@
         "game_image": "https://media.playstation.com/is/image/SCEA/monster-hunter-world-listing-thumb-01-ps4-us-18sep17?$Icon$",
         "rating": 5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Monster Hunter: Rise",
@@ -37,7 +37,7 @@
         "game_image": "https://wallpaperaccess.com/full/5871045.png",
         "rating": 4,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Life Is Strange",
@@ -45,7 +45,7 @@
         "game_image": "https://imagebee.org/games/life-is-strange/life-is-strange-1-1600x900.jpg",
         "rating": 5.5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Life Is Strange: True Colors",
@@ -53,7 +53,7 @@
         "game_image": "https://images.alphacoders.com/115/1152016.jpg",
         "rating": 5.5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Phasmophobia",
@@ -61,7 +61,7 @@
         "game_image": "https://www.gamepretty.com/wp-content/uploads/2020/09/capsule_616x353-2020-09-20T181116.831.jpg",
         "rating": 5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Valheim",
@@ -69,7 +69,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/892970/capsule_616x353.jpg?t=1647939640",
         "rating": 4,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Among Us",
@@ -77,7 +77,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/945360/capsule_616x353.jpg?t=1646296970",
         "rating": 4.5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "The Legend Of Zelda: Breath of the Wild",
@@ -93,7 +93,7 @@
         "game_image": "https://i.ytimg.com/vi/mWcDpodmiKg/maxresdefault.jpg",
         "rating": 4.5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Life is Strange: Before the Storm",
@@ -101,7 +101,7 @@
         "game_image": "https://i0.wp.com/selphie1999gaming.com/wp-content/uploads/2020/08/lis-storm-guides_orig-2808202020-M.jpg?fit=616%2C353&ssl=1",
         "rating": 5.5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Tell Me Why",
@@ -109,7 +109,7 @@
         "game_image": "https://tellmewhy-cdn.azureedge.net/wp-content/uploads/2019/11/TellMeWhy_Wallpaper-Desktop-Wide_2560x1440.jpg",
         "rating": 5.5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "The Sims 4",
@@ -133,7 +133,7 @@
         "game_image": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2019/10/1280x720_011.png",
         "rating": 5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
@@ -157,7 +157,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_616x353.jpg?t=1643126664",
         "rating": 4,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Guild Wars 2",
@@ -173,7 +173,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/413410/capsule_616x353.jpg?t=1637303326",
         "rating": 4,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Danganronpa 2: Goodbye Despair",
@@ -181,7 +181,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/413420/capsule_616x353.jpg?t=1635757200",
         "rating": 5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Danganronpa V3: Killing Harmony",
@@ -189,7 +189,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/567640/capsule_616x353.jpg?t=1635757344",
         "rating": 5.5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Life is Strange 2",
@@ -197,7 +197,7 @@
         "game_image": "https://wallpapercave.com/wp/wp4327467.jpg",
         "rating": 4,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Don't Starve Together",
@@ -205,7 +205,7 @@
         "game_image": "https://wallpapercave.com/wp/wp2236997.png",
         "rating": 3,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Forewarned",
@@ -213,7 +213,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/1562420/capsule_616x353.jpg?t=1654189696",
         "rating": 5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Left 4 Dead 2",
@@ -221,7 +221,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/550/capsule_616x353.jpg?t=1630686839",
         "rating": 4,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Satisfactory",
@@ -229,7 +229,7 @@
         "game_image": "https://images7.alphacoders.com/108/1083975.jpg",
         "rating": 5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Osu",
@@ -277,7 +277,7 @@
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/821890/capsule_616x353.jpg?t=1582921129",
         "rating": 5.5,
         "multiplayer": false,
-        "platform": "Steam"
+        "platform": "PC: Steam"
     },
     {
         "game_title": "Earthbound",
@@ -309,6 +309,118 @@
         "game_image": "https://cdn-ext.fanatical.com/production/product/1280x720/24a790d3-2e54-4c96-be13-8673f34d1aad.jpeg",
         "rating": 4.5,
         "multiplayer": true,
-        "platform": "Steam"
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Deltarune",
+        "game_release": "Q4 2018",
+        "game_image": "https://cdn1.dotesports.com/wp-content/uploads/2021/09/16105103/Deltarune-poster.png",
+        "rating": 5.5,
+        "multiplayer": false,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Tomodachi Life",
+        "game_release": "Q2 2013",
+        "game_image": "https://i.ytimg.com/vi/jmf4RgqfEfs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBQJiSToTbLt6rEGpZR0Aq5a6oLdQ",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "Nintendo 3DS"
+    },
+    {
+        "game_title": "Cat Quest",
+        "game_release": "Q3 2017",
+        "game_image": "https://assets.nintendo.com/image/upload/c_scale,f_auto,q_auto,w_1280/v1/Legacy%20Videos/posters/Bmdnh1ZDE6qFJJsrh37k9VMXwCEHP-WE",
+        "rating": 3.5,
+        "multiplayer": false,
+        "platform": "PC"
+    },
+    {
+        "game_title": "Cat Quest 2",
+        "game_release": "Q3 2019",
+        "game_image": "https://assets.nintendo.com/image/upload/c_scale,f_auto,q_auto,w_1280/v1/Legacy%20Videos/posters/81cDFqaTE6TJO455kK_saHe28CSiqMKR",
+        "rating": 4.5,
+        "multiplayer": true,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Mario Kart 8",
+        "game_release": "Q2 2014",
+        "game_image": "https://media.tegna-media.com/assets/WPMT/images/3c8d32db-c7c2-4619-9d15-3bd6fecf12ba/3c8d32db-c7c2-4619-9d15-3bd6fecf12ba_1140x641.jpg",
+        "rating": 4.5,
+        "multiplayer": true,
+        "platform": "Nintendo Wii U"
+    },
+    {
+        "game_title": "Super Mario 3D World",
+        "game_release": "Q4 2013",
+        "game_image": "https://bgr.com/wp-content/uploads/2013/11/super-mario-3d-world.jpg?quality=82&strip=all",
+        "rating": 4,
+        "multiplayer": true,
+        "platform": "Nintendo Wii U"
+    },
+    {
+        "game_title": "Super Mario 3D Land",
+        "game_release": "Q4 2011",
+        "game_image": "https://www.hyperhype.es/wp-content/uploads/2018/12/super-mario-3d-land-hd-wallpapers-33716-9864229.jpg",
+        "rating": 3.5,
+        "multiplayer": false,
+        "platform": "Nintendo 3DS"
+    },
+    {
+        "game_title": "The Legend Of Zelda: The Wind Waker HD",
+        "game_release": "Q3 2013",
+        "game_image": "https://cdn.realsport101.com/images/ncavvykf/gfinityesports/59a5fdc2f24f25d4696f15ec0b2f92eed91de179-808x423.jpg",
+        "rating": 4.5,
+        "multiplayer": false,
+        "platform": "Nintendo Wii U"
+    },
+    {
+        "game_title": "Mabinogi",
+        "game_release": "Q2 2004",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/212200/ss_4f4f7da45eaaf47eb2ec09681bcf9a8aac1493f3.1920x1080.jpg?t=1648147291",
+        "rating": 5.5,
+        "multiplayer": true,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Oxygen Not Included",
+        "game_release": "Q1 2017",
+        "game_image": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Ghost Exorcism INC",
+        "game_release": "Q3 2021",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/1618540/capsule_616x353.jpg?t=1627043797",
+        "rating": 4.5,
+        "multiplayer": true,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Super Animal Royale",
+        "game_release": "Q4 2018",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/843380/capsule_616x353.jpg?t=1643837390",
+        "rating": 5.5,
+        "multiplayer": true,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Pokémon GO",
+        "game_release": "Q3 2016",
+        "game_image": "https://assets.pokemon.com/assets/cms2/img/video-games/video-games/pokemon_go/169.jpg",
+        "rating": 4,
+        "multiplayer": true,
+        "platform": "Mobile"
+    },
+    {
+        "game_title": "NeosVR",
+        "game_release": "Q2 2018",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/740250/capsule_616x353.jpg?t=1617150509",
+        "rating": 3.5,
+        "multiplayer": true,
+        "platform": "PC: Steam"
     }
 ]
