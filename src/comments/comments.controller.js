@@ -47,10 +47,12 @@ async function hasValidProperties(req, res, next) {
 }
 
 async function passesBlacklist(req, res, next) {
-    let { comment } = req.body.data;
+    let { firstName, lastName, comment } = req.body.data;
     const blacklistRegex = new RegExp('\\b' + blacklistedWords.join('\\b|\\b') + '\\b', 'g');
-    const badWords = comment.toLowerCase().match(blacklistRegex);
-    if (badWords) next({ status: 400, message: `Apologies, but your message has language that cannot be commented.`});
+    const badName = firstName.toLowerCase().match(blacklistRegex);
+    const badLastName = lastName.toLowerCase().match(blacklistRegex);
+    const badComment = comment.toLowerCase().match(blacklistRegex);
+    if (badName || badLastName || badComment) next({ status: 400, message: `Your content contains innapropriate language.`});
     else next();
 }
 
