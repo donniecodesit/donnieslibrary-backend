@@ -4,7 +4,7 @@
         "description": "My personal website and portfolio, with a lot of information about me and my projects!",
         "date": "2022-05-09",
         "repo": "https://github.com/donovanlaws/donnieslibrary-frontend",
-        "url": "https://allaboutdonnie.herokuapp.com/portfolio",
+        "url": "https://allaboutdonnie.vercel.app/",
         "index-priority": 5
     },
     {
@@ -28,7 +28,7 @@
         "description": "Webpage for users to book and edit reservations in a database.",
         "date": "2022-03-18",
         "repo": "https://github.com/donovanlaws/restaurant-reservation-system",
-        "url": "https://dl-restres-frontend.herokuapp.com/dashboard",
+        "url": "https://dl-restres-frontend.vercel.app/",
         "index-priority": 4
     },
     {
