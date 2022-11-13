@@ -3,7 +3,7 @@
         "title": "All About Donnie!",
         "description": "My personal website and portfolio, with a lot of information about me and my projects!",
         "date": "2022-05-09",
-        "repo": "https://github.com/donovanlaws/donnieslibrary-frontend",
+        "repo": "https://github.com/donniecodesit/donnieslibrary-frontend",
         "url": "https://allaboutdonnie.vercel.app/",
         "index-priority": 5
     },
@@ -11,7 +11,7 @@
         "title": "PrototonBot",
         "description": "My personal bot and hobby project, a Discord Bot for entertainment purposes only!",
         "date": "2022-01-08",
-        "repo": "https://github.com/donovanlaws/PrototonBot",
+        "repo": "https://github.com/donniecodesit/PrototonBot",
         "url": "none",
         "index-priority": 5
     },
@@ -19,7 +19,7 @@
         "title": "We Love Movies",
         "description": "Webpage for users to browse movies and their reviews.",
         "date": "2022-01-31",
-        "repo": "https://github.com/donovanlaws/WeLoveMovies",
+        "repo": "https://github.com/donniecodesit/WeLoveMovies",
         "url": "https://dl-movies-frontend.herokuapp.com/",
         "index-priority": 4
     },
@@ -27,7 +27,7 @@
         "title": "Restaurant Reservation System",
         "description": "Webpage for users to book and edit reservations in a database.",
         "date": "2022-03-18",
-        "repo": "https://github.com/donovanlaws/restaurant-reservation-system",
+        "repo": "https://github.com/donniecodesit/restaurant-reservation-system",
         "url": "https://dl-restres-frontend.vercel.app/",
         "index-priority": 4
     },
@@ -35,151 +35,151 @@
         "title": "Breaking Bad",
         "description": "Webpage to view characters from the TV Series Breaking Bad",
         "date": "2022-04-26",
-        "repo": "https://github.com/donovanlaws/react-breakingbad",
-        "url": "https://donovanlaws.github.io/react-breakingbad/",
+        "repo": "https://github.com/donniecodesit/react-breakingbad",
+        "url": "https://donniecodesit.github.io/react-breakingbad/",
         "index-priority": 4
     },
     {
         "title": "Meta Tag Generator",
         "description": "Application that generates Meta Tags for you based on information provided.",
         "date": "2022-06-20",
-        "repo": "https://github.com/donovanlaws/metagenerator",
-        "url": "https://donovanlaws.github.io/metagenerator/",
+        "repo": "https://github.com/donniecodesit/metagenerator",
+        "url": "https://donniecodesit.github.io/metagenerator/",
         "index-priority": 4
     },
     {
         "title": "Thinkful BNB",
         "description": "A mock vacation rental website.",
         "date": "2021-12-07",
-        "repo": "https://github.com/donovanlaws/thinkfulbnb-page",
-        "url": "https://donovanlaws.github.io/thinkfulbnb-page/",
+        "repo": "https://github.com/donniecodesit/thinkfulbnb-page",
+        "url": "https://donniecodesit.github.io/thinkfulbnb-page/",
         "index-priority": 3
     },
     {
         "title": "Decoder Ring",
         "description": "Webpage allowing you to shift messages using 3 types of methods.",
         "date": "2021-11-23",
-        "repo": "https://github.com/donovanlaws/DecoderRing",
-        "url": "https://donovanlaws.github.io/DecoderRing/",
+        "repo": "https://github.com/donniecodesit/DecoderRing",
+        "url": "https://donniecodesit.github.io/DecoderRing/",
         "index-priority": 3
     },
     {
         "title": "Recipe Tracking App",
         "description": "Webpage allowing you to save recipe information. (Session only)",
         "date": "2021-12-17",
-        "repo": "https://github.com/donovanlaws/recipe-tracking-app",
-        "url": "https://donovanlaws.github.io/recipe-tracking-app/",
+        "repo": "https://github.com/donniecodesit/recipe-tracking-app",
+        "url": "https://donniecodesit.github.io/recipe-tracking-app/",
         "index-priority": 3
     },
     {
         "title": "Portfolio (Old)",
         "description": "Personal portfolio website old version. Replaced by AllAboutDonnie project.",
         "date": "2022-01-18",
-        "repo": "https://github.com/donovanlaws/LawsPortfolio",
-        "url": "https://donovanlaws.github.io/LawsPortfolio/",
+        "repo": "https://github.com/donniecodesit/LawsPortfolio",
+        "url": "https://donniecodesit.github.io/LawsPortfolio/",
         "index-priority": 3
     },
     {
         "title": "Key Generator",
         "description": "Webpage to generate random passwords based on user choice.",
         "date": "2022-04-28",
-        "repo": "https://github.com/donovanlaws/react-keygen",
-        "url": "https://donovanlaws.github.io/react-keygen/",
+        "repo": "https://github.com/donniecodesit/react-keygen",
+        "url": "https://donniecodesit.github.io/react-keygen/",
         "index-priority": 3
     },
     {
         "title": "Quiz Trivia",
         "description": "Trivia Application using OpenTDB for quiz questions.",
         "date": "2022-04-09",
-        "repo": "https://github.com/donovanlaws/react-quiz-trivia",
-        "url": "https://donovanlaws.github.io/react-quiz-trivia/",
+        "repo": "https://github.com/donniecodesit/react-quiz-trivia",
+        "url": "https://donniecodesit.github.io/react-quiz-trivia/",
         "index-priority": 3
     },
     {
         "title": "Image Gallery",
         "description": "Gallery application allowing users to search images via the Unsplash API.",
         "date": "2022-05-02",
-        "repo": "https://github.com/donovanlaws/react-imagegallery",
-        "url": "https://donovanlaws.github.io/react-imagegallery/",
+        "repo": "https://github.com/donniecodesit/react-imagegallery",
+        "url": "https://donniecodesit.github.io/react-imagegallery/",
         "index-priority": 3
     },
     {
         "title": "Quote Generator",
         "description": "Webpage generating quotes with stylization. Quotes from B1nary.",
         "date": "2022-04-27",
-        "repo": "https://github.com/donovanlaws/react-quote-generator",
-        "url": "https://donovanlaws.github.io/react-quote-generator/",
+        "repo": "https://github.com/donniecodesit/react-quote-generator",
+        "url": "https://donniecodesit.github.io/react-quote-generator/",
         "index-priority": 3
     },
     {
         "title": "Note Taker",
         "description": "Note taking application allowing user to store stylized notes with Redux. (Session only)",
         "date": "2022-05-05",
-        "repo": "https://github.com/donovanlaws/react-notetaker",
-        "url": "https://donovanlaws.github.io/react-notetaker/",
+        "repo": "https://github.com/donniecodesit/react-notetaker",
+        "url": "https://donniecodesit.github.io/react-notetaker/",
         "index-priority": 3
     },
     {
         "title": "Bookshelf",
         "description": "Application which allows you to browse and list books from storage.",
         "date": "2022-05-05",
-        "repo": "https://github.com/donovanlaws/react-bookshelf",
-        "url": "https://donovanlaws.github.io/react-bookshelf/",
+        "repo": "https://github.com/donniecodesit/react-bookshelf",
+        "url": "https://donniecodesit.github.io/react-bookshelf/",
         "index-priority": 3
     },
     {
         "title": "Spend Some!",
         "description": "Application that allows you to dynamically manage a cart, with items, lists, and totals.",
         "date": "2022-05-24",
-        "repo": "https://github.com/donovanlaws/spendsome",
-        "url": "https://donovanlaws.github.io/spendsome/",
+        "repo": "https://github.com/donniecodesit/spendsome",
+        "url": "https://donniecodesit.github.io/spendsome/",
         "index-priority": 3
     },
     {
         "title": "BMI Calculator",
         "description": "Application where you can calculate BMI based off of input.",
         "date": "2022-05-26",
-        "repo": "https://github.com/donovanlaws/bmicalculator",
-        "url": "https://donovanlaws.github.io/bmicalculator/",
+        "repo": "https://github.com/donniecodesit/bmicalculator",
+        "url": "https://donniecodesit.github.io/bmicalculator/",
         "index-priority": 3
     },
     {
         "title": "Scoreboard",
         "description": "Application allowing you to time, manage, and up date scores for players.",
         "date": "2022-06-14",
-        "repo": "https://github.com/donovanlaws/scoreboardapp",
-        "url": "https://donovanlaws.github.io/scoreboardapp/",
+        "repo": "https://github.com/donniecodesit/scoreboardapp",
+        "url": "https://donniecodesit.github.io/scoreboardapp/",
         "index-priority": 3
     },
     {
         "title": "Coffee Webpage",
         "description": "Webpage with some coffee basics!",
         "date": "2021-12-06",
-        "repo": "https://github.com/donovanlaws/starter-coffee-fun",
-        "url": "https://donovanlaws.github.io/starter-coffee-fun/",
+        "repo": "https://github.com/donniecodesit/starter-coffee-fun",
+        "url": "https://donniecodesit.github.io/starter-coffee-fun/",
         "index-priority": 2
     },
     {
         "title": "All About Bears",
         "description": "Webpage with information about bears.",
         "date": "2021-12-08",
-        "repo": "https://github.com/donovanlaws/all-about-bears",
-        "url": "https://donovanlaws.github.io/all-about-bears/",
+        "repo": "https://github.com/donniecodesit/all-about-bears",
+        "url": "https://donniecodesit.github.io/all-about-bears/",
         "index-priority": 2
     },
     {
         "title": "Lorem Ipsum Albums",
         "description": "Webpage showing conditional rendering with listed options.",
         "date": "2021-12-27",
-        "repo": "https://github.com/donovanlaws/albumlist-api-hooks",
-        "url": "https://donovanlaws.github.io/albumlist-api-hooks/",
+        "repo": "https://github.com/donniecodesit/albumlist-api-hooks",
+        "url": "https://donniecodesit.github.io/albumlist-api-hooks/",
         "index-priority": 2
     },
     {
         "title": "React Router Demo",
         "description": "Webpage practicing React Router features.",
         "date": "2022-05-03",
-        "repo": "https://github.com/donovanlaws/react-router-demo",
+        "repo": "https://github.com/donniecodesit/react-router-demo",
         "url": "https://dl-react-router-demo.herokuapp.com/",
         "index-priority": 2
     },
@@ -187,48 +187,48 @@
         "title": "Contact Manager",
         "description": "Application allowing users to store their contacts name and numbers. (Session only)",
         "date": "2022-05-06",
-        "repo": "https://github.com/donovanlaws/react-contactmanager",
-        "url": "https://donovanlaws.github.io/react-contactmanager/",
+        "repo": "https://github.com/donniecodesit/react-contactmanager",
+        "url": "https://donniecodesit.github.io/react-contactmanager/",
         "index-priority": 2
     },
     {
         "title": "Furniture Store",
         "description": "Application that allows you to dynamically manage a furniture order cart.",
         "date": "2022-06-06",
-        "repo": "https://github.com/donovanlaws/furniturestore",
-        "url": "https://donovanlaws.github.io/furniturestore/",
+        "repo": "https://github.com/donniecodesit/furniturestore",
+        "url": "https://donniecodesit.github.io/furniturestore/",
         "index-priority": 2
     },
     {
         "title": "HTML Forms",
         "description": "Webpage showing use of HTML Forms",
         "date": "2021-12-07",
-        "repo": "https://github.com/donovanlaws/html-forms",
-        "url": "https://donovanlaws.github.io/html-forms/",
+        "repo": "https://github.com/donniecodesit/html-forms",
+        "url": "https://donniecodesit.github.io/html-forms/",
         "index-priority": 1
     },
     {
         "title": "Bootstrap Abilities",
         "description": "Webpage showing a few bootstrap layouts.",
         "date": "2021-12-08",
-        "repo": "https://github.com/donovanlaws/bootstrap-practice",
-        "url": "https://donovanlaws.github.io/bootstrap-practice/",
+        "repo": "https://github.com/donniecodesit/bootstrap-practice",
+        "url": "https://donniecodesit.github.io/bootstrap-practice/",
         "index-priority": 1
     },
     {
         "title": "HTML Search Forms",
         "description": "Webpage showing conditional rendering with a search form.",
         "date": "2021-12-16",
-        "repo": "https://github.com/donovanlaws/form-submissions-search",
-        "url": "https://donovanlaws.github.io/form-submissions-search/",
+        "repo": "https://github.com/donniecodesit/form-submissions-search",
+        "url": "https://donniecodesit.github.io/form-submissions-search/",
         "index-priority": 1
     },
     {
         "title": "Resort Booker",
         "description": "Application that provides a receipt of the total price of a stay at a mock resort.",
         "date": "2022-05-26",
-        "repo": "https://github.com/donovanlaws/resortbooker",
-        "url": "https://donovanlaws.github.io/resortbooker/",
+        "repo": "https://github.com/donniecodesit/resortbooker",
+        "url": "https://donniecodesit.github.io/resortbooker/",
         "index-priority": 1
     }
 ]
