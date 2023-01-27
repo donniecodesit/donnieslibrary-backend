@@ -20,10 +20,10 @@
     {
         "title": "We Love Movies",
         "unique": "welovemovies",
-        "description": "Webpage for users to browse movies and their reviews.",
+        "description": "Backend service to return and filter mock movies and theaters. Frontend unavailable.",
         "date": "2022-01-31",
         "repo": "https://github.com/donniecodesit/WeLoveMovies",
-        "url": "https://dl-movies-frontend.herokuapp.com/",
+        "url": "none",
         "index-priority": 4
     },
     {
@@ -38,10 +38,10 @@
     {
         "title": "Breaking Bad",
         "unique": "breakingbad",
-        "description": "Webpage to view characters from the TV Series Breaking Bad",
+        "description": "Webpage to view characters from the TV Series Breaking Bad. API Service down, characters no longer load.",
         "date": "2022-04-26",
         "repo": "https://github.com/donniecodesit/react-breakingbad",
-        "url": "https://donniecodesit.github.io/react-breakingbad/",
+        "url": "none",
         "index-priority": 4
     },
     {
@@ -207,15 +207,6 @@
         "index-priority": 2
     },
     {
-        "title": "React Router Demo",
-        "unique": "reactrouterdemo",
-        "description": "Webpage practicing React Router features.",
-        "date": "2022-05-03",
-        "repo": "https://github.com/donniecodesit/react-router-demo",
-        "url": "https://dl-react-router-demo.herokuapp.com/",
-        "index-priority": 2
-    },
-    {
         "title": "Contact Manager",
         "unique": "contactmanager",
         "description": "Application allowing users to store their contacts name and numbers. (Session only)",
@@ -232,15 +223,6 @@
         "repo": "https://github.com/donniecodesit/furniturestore",
         "url": "https://donniecodesit.github.io/furniturestore/",
         "index-priority": 2
-    },
-    {
-        "title": "HTML Forms",
-        "unique": "htmlforms",
-        "description": "Webpage showing use of HTML Forms",
-        "date": "2021-12-07",
-        "repo": "https://github.com/donniecodesit/html-forms",
-        "url": "https://donniecodesit.github.io/html-forms/",
-        "index-priority": 1
     },
     {
         "title": "Bootstrap Abilities",
