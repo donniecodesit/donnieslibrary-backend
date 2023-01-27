@@ -3,7 +3,7 @@
         "game_title": "VRChat",
         "game_release": "Q1 2017",
         "game_image": "https://www.finsmes.com/wp-content/uploads/2021/06/Landscape_CoverArt.png",
-        "rating": 4.5,
+        "rating": 4,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -27,7 +27,7 @@
         "game_title": "Monster Hunter: World",
         "game_release": "Q1 2018",
         "game_image": "https://media.playstation.com/is/image/SCEA/monster-hunter-world-listing-thumb-01-ps4-us-18sep17?$Icon$",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -35,7 +35,7 @@
         "game_title": "Monster Hunter: Rise",
         "game_release": "Q1 2021",
         "game_image": "https://wallpaperaccess.com/full/5871045.png",
-        "rating": 4,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -155,7 +155,7 @@
         "game_title": "Final Fantasy XIV Online",
         "game_release": "Q3 2013",
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_616x353.jpg?t=1643126664",
-        "rating": 4,
+        "rating": 3.5,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -163,7 +163,7 @@
         "game_title": "Guild Wars 2",
         "game_release": "Q3 2012",
         "game_image": "https://guildwars2.staticwars.com/wp-content/themes/guildwars2.com-live/img/og-img.f6214476.jpg",
-        "rating": 4,
+        "rating": 3.5,
         "multiplayer": true,
         "platform": "PC"
     },
@@ -187,7 +187,7 @@
         "game_title": "Danganronpa V3: Killing Harmony",
         "game_release": "Q1 2017",
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/567640/capsule_616x353.jpg?t=1635757344",
-        "rating": 5.5,
+        "rating": 5,
         "multiplayer": false,
         "platform": "PC: Steam"
     },
@@ -211,7 +211,7 @@
         "game_title": "Forewarned",
         "game_release": "Q3 2021",
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/1562420/capsule_616x353.jpg?t=1654189696",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -227,7 +227,7 @@
         "game_title": "Satisfactory",
         "game_release": "Q1 2019",
         "game_image": "https://images7.alphacoders.com/108/1083975.jpg",
-        "rating": 5,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -267,7 +267,7 @@
         "game_title": "Animal Crossing: New Leaf",
         "game_release": "Q3 2012",
         "game_image": "https://animalcrossingworld.com/wp-content/uploads/2013/04/newleaf-header-northamerica.jpg",
-        "rating": 3.5,
+        "rating": 4,
         "multiplayer": true,
         "platform": "Nintendo 3DS"
     },
@@ -291,7 +291,7 @@
         "game_title": "PokeMMO",
         "game_release": "Q1 2012",
         "game_image": "https://i.ytimg.com/vi/MHWnJSoAJN0/maxresdefault.jpg",
-        "rating": 5,
+        "rating": 4,
         "multiplayer": true,
         "platform": "PC"
     },
@@ -307,7 +307,7 @@
         "game_title": "Red Dead Redemption 2",
         "game_release": "Q4 2018",
         "game_image": "https://cdn-ext.fanatical.com/production/product/1280x720/24a790d3-2e54-4c96-be13-8673f34d1aad.jpeg",
-        "rating": 4.5,
+        "rating": 4,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -315,7 +315,7 @@
         "game_title": "Deltarune",
         "game_release": "Q4 2018",
         "game_image": "https://cdn1.dotesports.com/wp-content/uploads/2021/09/16105103/Deltarune-poster.png",
-        "rating": 5.5,
+        "rating": 5,
         "multiplayer": false,
         "platform": "PC"
     },
@@ -403,7 +403,7 @@
         "game_title": "Super Animal Royale",
         "game_release": "Q4 2018",
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/843380/capsule_616x353.jpg?t=1643837390",
-        "rating": 5.5,
+        "rating": 4.5,
         "multiplayer": true,
         "platform": "PC: Steam"
     },
@@ -419,8 +419,56 @@
         "game_title": "NeosVR",
         "game_release": "Q2 2018",
         "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/740250/capsule_616x353.jpg?t=1617150509",
-        "rating": 3.5,
+        "rating": 3,
         "multiplayer": true,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Lonesome Village",
+        "game_release": "Q3 2021",
+        "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/1418360/capsule_616x353.jpg?t=1673930036",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Travellers Rest",
+        "game_release": "Q3 2020",
+        "game_image": "https://cdn.akamai.steamstatic.com/steam/apps/1139980/capsule_616x353.jpg?t=1643137766",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "State of Decay 2",
+        "game_release": "Q2 2018",
+        "game_image": "https://cdn.cloudflare.steamstatic.com/steam/apps/495420/capsule_616x353.jpg?t=1656875548",
+        "rating": 5,
+        "multiplayer": true,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "A Hat in Time",
+        "game_release": "Q3 2017",
+        "game_image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/a/a-hat-in-time-switch/hero",
+        "rating": 4,
+        "multiplayer": false,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Bravely Default II",
+        "game_release": "Q1 2021",
+        "game_image": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2021/02/Bravely-Default-II-1.jpg",
+        "rating": 5,
+        "multiplayer": false,
+        "platform": "PC: Steam"
+    },
+    {
+        "game_title": "Melatonin",
+        "game_release": "Q4 2022",
+        "game_image": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/m/melatonin-switch/hero",
+        "rating": 5.5,
+        "multiplayer": false,
         "platform": "PC: Steam"
     }
 ]
