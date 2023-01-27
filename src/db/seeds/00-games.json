@@ -234,7 +234,7 @@
     {
         "game_title": "Osu",
         "game_release": "Q3 2007",
-        "game_image": "https://i0.wp.com/l3apq3bncl82o596k2d1ydn1-wpengine.netdna-ssl.com/wp-content/uploads/2020/11/Osu.jpg?fit=810%2C455&ssl=1",
+        "game_image": "https://repository-images.githubusercontent.com/248937035/7c718480-6970-11eb-84f0-0495eb582eda",
         "rating": 3,
         "multiplayer": false,
         "platform": "PC"
@@ -298,7 +298,7 @@
     {
         "game_title": "Clone Hero",
         "game_release": "Q2 2017",
-        "game_image": "https://pbs.twimg.com/media/EDAal2kXUAE0Xvd.jpg",
+        "game_image": "https://www.cmuse.org/wp-content/uploads/2022/01/clone-hero-not-detecting_guitar.jpg",
         "rating": 5,
         "multiplayer": true,
         "platform": "PC"

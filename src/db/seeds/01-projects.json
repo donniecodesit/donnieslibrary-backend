@@ -1,6 +1,7 @@
 [
     {
         "title": "All About Donnie!",
+        "unique": "newportfolio",
         "description": "My personal website and portfolio, with a lot of information about me and my projects!",
         "date": "2022-05-09",
         "repo": "https://github.com/donniecodesit/donnieslibrary-frontend",
@@ -9,6 +10,7 @@
     },
     {
         "title": "PrototonBot",
+        "unique": "prototonbot",
         "description": "My personal bot and hobby project, a Discord Bot for entertainment purposes only!",
         "date": "2022-01-08",
         "repo": "https://github.com/donniecodesit/PrototonBot",
@@ -17,6 +19,7 @@
     },
     {
         "title": "We Love Movies",
+        "unique": "welovemovies",
         "description": "Webpage for users to browse movies and their reviews.",
         "date": "2022-01-31",
         "repo": "https://github.com/donniecodesit/WeLoveMovies",
@@ -25,6 +28,7 @@
     },
     {
         "title": "Restaurant Reservation System",
+        "unique": "restresapp",
         "description": "Webpage for users to book and edit reservations in a database.",
         "date": "2022-03-18",
         "repo": "https://github.com/donniecodesit/restaurant-reservation-system",
@@ -33,6 +37,7 @@
     },
     {
         "title": "Breaking Bad",
+        "unique": "breakingbad",
         "description": "Webpage to view characters from the TV Series Breaking Bad",
         "date": "2022-04-26",
         "repo": "https://github.com/donniecodesit/react-breakingbad",
@@ -41,6 +46,7 @@
     },
     {
         "title": "Meta Tag Generator",
+        "unique": "metataggen",
         "description": "Application that generates Meta Tags for you based on information provided.",
         "date": "2022-06-20",
         "repo": "https://github.com/donniecodesit/metagenerator",
@@ -48,7 +54,17 @@
         "index-priority": 4
     },
     {
+        "title": "Weather App",
+        "unique": "weatherapp",
+        "description": "Application that provides weather data for the city name you search. Only accepts the name of a city.",
+        "date": "2023-01-05",
+        "repo": "https://github.com/donniecodesit/weatherdata_app",
+        "url": "https://weatherdata-app.vercel.app/",
+        "index-priority": 4
+    },
+    {
         "title": "Thinkful BNB",
+        "unique": "thinkfulbnb",
         "description": "A mock vacation rental website.",
         "date": "2021-12-07",
         "repo": "https://github.com/donniecodesit/thinkfulbnb-page",
@@ -57,6 +73,7 @@
     },
     {
         "title": "Decoder Ring",
+        "unique": "decoderring",
         "description": "Webpage allowing you to shift messages using 3 types of methods.",
         "date": "2021-11-23",
         "repo": "https://github.com/donniecodesit/DecoderRing",
@@ -65,6 +82,7 @@
     },
     {
         "title": "Recipe Tracking App",
+        "unique": "recipetracker",
         "description": "Webpage allowing you to save recipe information. (Session only)",
         "date": "2021-12-17",
         "repo": "https://github.com/donniecodesit/recipe-tracking-app",
@@ -73,6 +91,7 @@
     },
     {
         "title": "Portfolio (Old)",
+        "unique": "oldportfolio",
         "description": "Personal portfolio website old version. Replaced by AllAboutDonnie project.",
         "date": "2022-01-18",
         "repo": "https://github.com/donniecodesit/LawsPortfolio",
@@ -81,6 +100,7 @@
     },
     {
         "title": "Key Generator",
+        "unique": "keygenerator",
         "description": "Webpage to generate random passwords based on user choice.",
         "date": "2022-04-28",
         "repo": "https://github.com/donniecodesit/react-keygen",
@@ -89,6 +109,7 @@
     },
     {
         "title": "Quiz Trivia",
+        "unique": "triviaapp",
         "description": "Trivia Application using OpenTDB for quiz questions.",
         "date": "2022-04-09",
         "repo": "https://github.com/donniecodesit/react-quiz-trivia",
@@ -97,6 +118,7 @@
     },
     {
         "title": "Image Gallery",
+        "unique": "imagegallery",
         "description": "Gallery application allowing users to search images via the Unsplash API.",
         "date": "2022-05-02",
         "repo": "https://github.com/donniecodesit/react-imagegallery",
@@ -105,6 +127,7 @@
     },
     {
         "title": "Quote Generator",
+        "unique": "quotegenerator",
         "description": "Webpage generating quotes with stylization. Quotes from B1nary.",
         "date": "2022-04-27",
         "repo": "https://github.com/donniecodesit/react-quote-generator",
@@ -113,6 +136,7 @@
     },
     {
         "title": "Note Taker",
+        "unique": "notetaker",
         "description": "Note taking application allowing user to store stylized notes with Redux. (Session only)",
         "date": "2022-05-05",
         "repo": "https://github.com/donniecodesit/react-notetaker",
@@ -121,6 +145,7 @@
     },
     {
         "title": "Bookshelf",
+        "unique": "bookshelf",
         "description": "Application which allows you to browse and list books from storage.",
         "date": "2022-05-05",
         "repo": "https://github.com/donniecodesit/react-bookshelf",
@@ -129,6 +154,7 @@
     },
     {
         "title": "Spend Some!",
+        "unique": "spendsome",
         "description": "Application that allows you to dynamically manage a cart, with items, lists, and totals.",
         "date": "2022-05-24",
         "repo": "https://github.com/donniecodesit/spendsome",
@@ -137,6 +163,7 @@
     },
     {
         "title": "BMI Calculator",
+        "unique": "bmicalc",
         "description": "Application where you can calculate BMI based off of input.",
         "date": "2022-05-26",
         "repo": "https://github.com/donniecodesit/bmicalculator",
@@ -145,6 +172,7 @@
     },
     {
         "title": "Scoreboard",
+        "unique": "scoreboard",
         "description": "Application allowing you to time, manage, and up date scores for players.",
         "date": "2022-06-14",
         "repo": "https://github.com/donniecodesit/scoreboardapp",
@@ -153,6 +181,7 @@
     },
     {
         "title": "Coffee Webpage",
+        "unique": "coffeesite",
         "description": "Webpage with some coffee basics!",
         "date": "2021-12-06",
         "repo": "https://github.com/donniecodesit/starter-coffee-fun",
@@ -161,6 +190,7 @@
     },
     {
         "title": "All About Bears",
+        "unique": "allaboutbears",
         "description": "Webpage with information about bears.",
         "date": "2021-12-08",
         "repo": "https://github.com/donniecodesit/all-about-bears",
@@ -169,6 +199,7 @@
     },
     {
         "title": "Lorem Ipsum Albums",
+        "unique": "loremipsum",
         "description": "Webpage showing conditional rendering with listed options.",
         "date": "2021-12-27",
         "repo": "https://github.com/donniecodesit/albumlist-api-hooks",
@@ -177,6 +208,7 @@
     },
     {
         "title": "React Router Demo",
+        "unique": "reactrouterdemo",
         "description": "Webpage practicing React Router features.",
         "date": "2022-05-03",
         "repo": "https://github.com/donniecodesit/react-router-demo",
@@ -185,6 +217,7 @@
     },
     {
         "title": "Contact Manager",
+        "unique": "contactmanager",
         "description": "Application allowing users to store their contacts name and numbers. (Session only)",
         "date": "2022-05-06",
         "repo": "https://github.com/donniecodesit/react-contactmanager",
@@ -193,6 +226,7 @@
     },
     {
         "title": "Furniture Store",
+        "unique": "furniturestore",
         "description": "Application that allows you to dynamically manage a furniture order cart.",
         "date": "2022-06-06",
         "repo": "https://github.com/donniecodesit/furniturestore",
@@ -201,6 +235,7 @@
     },
     {
         "title": "HTML Forms",
+        "unique": "htmlforms",
         "description": "Webpage showing use of HTML Forms",
         "date": "2021-12-07",
         "repo": "https://github.com/donniecodesit/html-forms",
@@ -209,6 +244,7 @@
     },
     {
         "title": "Bootstrap Abilities",
+        "unique": "bootstrappractice",
         "description": "Webpage showing a few bootstrap layouts.",
         "date": "2021-12-08",
         "repo": "https://github.com/donniecodesit/bootstrap-practice",
@@ -217,6 +253,7 @@
     },
     {
         "title": "HTML Search Forms",
+        "unique": "htmlsearchforms",
         "description": "Webpage showing conditional rendering with a search form.",
         "date": "2021-12-16",
         "repo": "https://github.com/donniecodesit/form-submissions-search",
@@ -225,6 +262,7 @@
     },
     {
         "title": "Resort Booker",
+        "unique": "resortbooker",
         "description": "Application that provides a receipt of the total price of a stay at a mock resort.",
         "date": "2022-05-26",
         "repo": "https://github.com/donniecodesit/resortbooker",
