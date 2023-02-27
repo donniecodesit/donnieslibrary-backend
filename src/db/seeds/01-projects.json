@@ -59,7 +59,7 @@
         "description": "Application that provides weather data for the city name you search. Only accepts the name of a city.",
         "date": "2023-01-05",
         "repo": "https://github.com/donniecodesit/weatherdata_app",
-        "url": "https://weatherdata-app.vercel.app/",
+        "url": "https://50dor-weatherapp.vercel.app/",
         "index-priority": 4
     },
     {
