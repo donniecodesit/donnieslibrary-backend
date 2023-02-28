@@ -40,7 +40,7 @@
         "unique": "breakingbad",
         "description": "Webpage to view characters from the TV Series Breaking Bad. API Service down, characters no longer load.",
         "date": "2022-04-26",
-        "repo": "https://github.com/donniecodesit/react-breakingbad",
+        "repo": "https://github.com/donniecodesit/50dor-breakingbad",
         "url": "none",
         "index-priority": 4
     },
@@ -49,8 +49,8 @@
         "unique": "metataggen",
         "description": "Application that generates Meta Tags for you based on information provided.",
         "date": "2022-06-20",
-        "repo": "https://github.com/donniecodesit/metagenerator",
-        "url": "https://donniecodesit.github.io/metagenerator/",
+        "repo": "https://github.com/donniecodesit/50dor-metagen",
+        "url": "https://donniecodesit.github.io/50dor-metagen/",
         "index-priority": 4
     },
     {
@@ -58,7 +58,7 @@
         "unique": "weatherapp",
         "description": "Application that provides weather data for the city name you search. Only accepts the name of a city.",
         "date": "2023-01-05",
-        "repo": "https://github.com/donniecodesit/weatherdata_app",
+        "repo": "https://github.com/donniecodesit/50dor-weatherapp",
         "url": "https://50dor-weatherapp.vercel.app/",
         "index-priority": 4
     },
@@ -85,8 +85,8 @@
         "unique": "recipetracker",
         "description": "Webpage allowing you to save recipe information. (Session only)",
         "date": "2021-12-17",
-        "repo": "https://github.com/donniecodesit/recipe-tracking-app",
-        "url": "https://donniecodesit.github.io/recipe-tracking-app/",
+        "repo": "https://github.com/donniecodesit/thinkful-recipeapp",
+        "url": "https://donniecodesit.github.io/thinkful-recipeapp/",
         "index-priority": 3
     },
     {
@@ -103,8 +103,8 @@
         "unique": "keygenerator",
         "description": "Webpage to generate random passwords based on user choice.",
         "date": "2022-04-28",
-        "repo": "https://github.com/donniecodesit/react-keygen",
-        "url": "https://donniecodesit.github.io/react-keygen/",
+        "repo": "https://github.com/donniecodesit/50dor-keygen",
+        "url": "https://donniecodesit.github.io/50dor-keygen/",
         "index-priority": 3
     },
     {
@@ -112,8 +112,8 @@
         "unique": "triviaapp",
         "description": "Trivia Application using OpenTDB for quiz questions.",
         "date": "2022-04-09",
-        "repo": "https://github.com/donniecodesit/react-quiz-trivia",
-        "url": "https://donniecodesit.github.io/react-quiz-trivia/",
+        "repo": "https://github.com/donniecodesit/50dor-quiztrivia",
+        "url": "https://donniecodesit.github.io/50dor-quiztrivia",
         "index-priority": 3
     },
     {
@@ -121,8 +121,8 @@
         "unique": "imagegallery",
         "description": "Gallery application allowing users to search images via the Unsplash API.",
         "date": "2022-05-02",
-        "repo": "https://github.com/donniecodesit/react-imagegallery",
-        "url": "https://donniecodesit.github.io/react-imagegallery/",
+        "repo": "https://github.com/donniecodesit/50dor-imagegallery",
+        "url": "https://donniecodesit.github.io/50dor-imagegallery",
         "index-priority": 3
     },
     {
@@ -130,8 +130,8 @@
         "unique": "quotegenerator",
         "description": "Webpage generating quotes with stylization. Quotes from B1nary.",
         "date": "2022-04-27",
-        "repo": "https://github.com/donniecodesit/react-quote-generator",
-        "url": "https://donniecodesit.github.io/react-quote-generator/",
+        "repo": "https://github.com/donniecodesit/50dor-quotegenerator",
+        "url": "https://donniecodesit.github.io/50dor-quotegenerator",
         "index-priority": 3
     },
     {
@@ -139,8 +139,8 @@
         "unique": "notetaker",
         "description": "Note taking application allowing user to store stylized notes with Redux. (Session only)",
         "date": "2022-05-05",
-        "repo": "https://github.com/donniecodesit/react-notetaker",
-        "url": "https://donniecodesit.github.io/react-notetaker/",
+        "repo": "https://github.com/donniecodesit/50dor-notetaker",
+        "url": "https://donniecodesit.github.io/50dor-notetaker",
         "index-priority": 3
     },
     {
@@ -148,8 +148,8 @@
         "unique": "bookshelf",
         "description": "Application which allows you to browse and list books from storage.",
         "date": "2022-05-05",
-        "repo": "https://github.com/donniecodesit/react-bookshelf",
-        "url": "https://donniecodesit.github.io/react-bookshelf/",
+        "repo": "https://github.com/donniecodesit/50dor-bookshelf",
+        "url": "https://donniecodesit.github.io/50dor-bookshelf",
         "index-priority": 3
     },
     {
@@ -157,8 +157,8 @@
         "unique": "spendsome",
         "description": "Application that allows you to dynamically manage a cart, with items, lists, and totals.",
         "date": "2022-05-24",
-        "repo": "https://github.com/donniecodesit/spendsome",
-        "url": "https://donniecodesit.github.io/spendsome/",
+        "repo": "https://github.com/donniecodesit/50dor-spendsome",
+        "url": "https://donniecodesit.github.io/50dor-spendsome/",
         "index-priority": 3
     },
     {
@@ -166,8 +166,8 @@
         "unique": "bmicalc",
         "description": "Application where you can calculate BMI based off of input.",
         "date": "2022-05-26",
-        "repo": "https://github.com/donniecodesit/bmicalculator",
-        "url": "https://donniecodesit.github.io/bmicalculator/",
+        "repo": "https://github.com/donniecodesit/50dor-bmicalculator",
+        "url": "https://donniecodesit.github.io/50dor-bmicalculator/",
         "index-priority": 3
     },
     {
@@ -175,8 +175,8 @@
         "unique": "scoreboard",
         "description": "Application allowing you to time, manage, and up date scores for players.",
         "date": "2022-06-14",
-        "repo": "https://github.com/donniecodesit/scoreboardapp",
-        "url": "https://donniecodesit.github.io/scoreboardapp/",
+        "repo": "https://github.com/donniecodesit/50dor-scoreboardapp",
+        "url": "https://donniecodesit.github.io/50dor-scoreboardapp/",
         "index-priority": 3
     },
     {
@@ -211,8 +211,8 @@
         "unique": "contactmanager",
         "description": "Application allowing users to store their contacts name and numbers. (Session only)",
         "date": "2022-05-06",
-        "repo": "https://github.com/donniecodesit/react-contactmanager",
-        "url": "https://donniecodesit.github.io/react-contactmanager/",
+        "repo": "https://github.com/donniecodesit/50dor-contactmanager",
+        "url": "https://donniecodesit.github.io/50dor-contactmanager",
         "index-priority": 2
     },
     {
@@ -220,8 +220,8 @@
         "unique": "furniturestore",
         "description": "Application that allows you to dynamically manage a furniture order cart.",
         "date": "2022-06-06",
-        "repo": "https://github.com/donniecodesit/furniturestore",
-        "url": "https://donniecodesit.github.io/furniturestore/",
+        "repo": "https://github.com/donniecodesit/50dor-furniturestore",
+        "url": "https://donniecodesit.github.io/50dor-furniturestore/",
         "index-priority": 2
     },
     {
@@ -247,8 +247,8 @@
         "unique": "resortbooker",
         "description": "Application that provides a receipt of the total price of a stay at a mock resort.",
         "date": "2022-05-26",
-        "repo": "https://github.com/donniecodesit/resortbooker",
-        "url": "https://donniecodesit.github.io/resortbooker/",
+        "repo": "https://github.com/donniecodesit/50dor-resortbooker",
+        "url": "https://donniecodesit.github.io/50dor-resortbooker/",
         "index-priority": 1
     }
 ]
